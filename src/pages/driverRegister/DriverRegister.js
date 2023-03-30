@@ -1,9 +1,15 @@
+import "./css/DriverRegister.css";
+
+
 const DriverRegister = () => {
     return (
-        <div>
-            <h1>
-                Driver Register
-            </h1>
+        <div id="driver_register_buttons">
+            <a href="/driver/associate/register">
+                Devenir Chauffeur Associé
+            </a>
+            <a href="/driver/principal/register">
+                Devenir Chauffeur Principal
+            </a> 
         </div>
     )
 }
