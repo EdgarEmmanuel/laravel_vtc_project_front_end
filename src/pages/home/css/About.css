@@ -1,0 +1,27 @@
+#about {
+    padding: 20px ;
+    margin-top: 65px ;
+}
+
+
+#about .image {
+    width: 100%;
+}
+
+
+#about .image img {
+    max-width: 100% ;
+    border-radius: 10px ;
+}
+
+
+#about .description h1 {
+    margin-top: 45px ;
+}
+
+
+#about .description h5 {
+    margin-top: 55px ;
+}
+
+

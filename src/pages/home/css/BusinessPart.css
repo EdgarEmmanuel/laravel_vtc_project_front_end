@@ -1,0 +1,22 @@
+#business_part{
+    margin-top: 100px;
+    padding: 20px ;
+}
+
+
+
+#business_part .description {
+    padding: 10px 10px;
+}
+
+
+#business_part .image {
+    width: 100%;
+}
+
+
+#business_part .image img{
+    max-width: 100% ;
+    border-radius: 10px ;
+}
+

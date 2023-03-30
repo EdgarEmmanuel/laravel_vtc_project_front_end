@@ -1,0 +1,21 @@
+#how_it_works{
+    margin-top: 100px;
+    padding: 20px;
+}
+
+
+#how_it_works h1{
+    margin-bottom: 40px;
+}
+
+
+
+#how_it_works img {
+    border-radius: 10px;
+}
+
+
+#how_it_works p{
+    text-align: justify;
+    padding: 10px 10px;
+}
